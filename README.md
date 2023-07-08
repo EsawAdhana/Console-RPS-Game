@@ -1,2 +1,2 @@
 # rpsGame
-This program started out as a simple idea, but I wanted to work on adding more and more user-friendly features. I wanted everything to run smoothly and clearly to a user so that a user of any age/experience to computers could play, all that was necessary was a basic knowledge of RPS.
+Here is a simple game of rock, paper, scissors that can be played on the terminal. It was a bit of a challenge to account for user error such as typing in an invalid value and making sure that they can quit the program whenever they want. I also added some small quirks that make the game a bit more interesting. I hope you enjoy!
